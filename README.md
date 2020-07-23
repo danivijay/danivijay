@@ -1,10 +1,19 @@
-### About Me
+<h1 align="center">Hi 👋, I'm Dani M Vijay</h1>
+<h3 align="center">A passionate full stack web developer from India</h3>
+- 👨‍💻 Official website: [https://danivijay.com](danivijay.com)
 
-I'm Dani. Full stack web developer.
+- 📝 I occasionally write articles [https://medium.com/@danivijay](https://medium.com/@danivijay)
 
-Visit [danivijay.com](https://danivijay.com) to know more.
+- 💬 Ask me about **web development. I focus of JS based tech(ReactJS, NodeJS...), but also tried python, ruby(rails), php and some devops**
 
-[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/UtmostDev) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/danivijay)
+- 📫 Reach me: **danimvijay@gmail.com**
+
+<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/> </p><p align="center">
+<a href="https://dev.to/danivijay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="danivijay" height="20" width="20" /></a>
+<a href="https://twitter.com/utmostdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="utmostdev" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/danivijay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="danivijay" height="20" width="20" /></a>
+<a href="https://medium.com/@danivijay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@danivijay" height="20" width="20" /></a>
+</p>
 
 ### Recent Activity
 <!--START_SECTION:activity-->
