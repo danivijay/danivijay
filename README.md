@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dani M Vijay</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 👨‍💻 Official website: [https://danivijay.com](danivijay.com)
+- 👨‍💻 Official website: [danivijay.com](https://danivijay.com)
 - 📫 Reach me at **danimvijay@gmail.com**
-- 📝 I occasionally write articles in [https://medium.com/@danivijay](medium.com/@danivijay)
+- 📝 I occasionally write articles in [medium.com/@danivijay](https://medium.com/@danivijay)
 - 💬 Ask me about **web development. I love of JS based tech(ReactJS, NodeJS...), but also tried python, ruby(rails), php and some devops**
 
 <p align="center">
