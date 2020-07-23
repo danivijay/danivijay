@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dani M Vijay</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 👨‍💻 Official website: [danivijay.com](https://danivijay.com)
+- 👨‍💻 Official website [**danivijay.com**](https://danivijay.com)
 - 📫 Reach me at **danimvijay@gmail.com**
-- 📝 I occasionally write articles in [medium.com/@danivijay](https://medium.com/@danivijay)
-- 💬 Ask me about **web development. I love of JS based tech(ReactJS, NodeJS...), but also tried python, ruby(rails), php and some devops**
+- 📝 I occasionally write articles in [medium.com/**@danivijay**](https://medium.com/@danivijay)
+- 💬 Ask me about **web development**. I love of JS based tech (ReactJS, NodeJS...), but also tried python, ruby(rails), php and some devops.
 
 <p align="center">
 <a href="https://stackoverflow.com/users/story/4230220" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Dani Vijay" height="20" width="20" /></a>
