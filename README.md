@@ -3,7 +3,7 @@
 
 - 👨‍💻 Official website [**danivijay.com**](https://danivijay.com)
 - 📫 Reach me at **danimvijay@gmail.com**
-- 📝 I occasionally write articles in [medium.com/**@danivijay**](https://medium.com/@danivijay)
+- 📝 I occasionally writes in [medium.com/**@danivijay**](https://medium.com/@danivijay)
 - 💬 Ask me about **web development**. I love of JS based tech (ReactJS, NodeJS...), but also tried python, ruby(rails), php and some devops.
 
 <p align="center">
