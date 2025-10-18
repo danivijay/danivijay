@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dani Vijay</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">Building Resilient Web Platforms from India</h3>
 
 - 📫 Reach me at **danimvijay@gmail.com**
 - 📝 I occasionally writes in [medium.com/**@danivijay**](https://medium.com/@danivijay)
