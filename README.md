@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dani M Vijay</h1>
+<h1 align="center">Hi 👋, I'm Dani Vijay</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 - 📫 Reach me at **danimvijay@gmail.com**
