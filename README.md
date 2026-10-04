@@ -31,8 +31,9 @@ I lead engineering teams that ship and scale enterprise software, and I still wr
 |---|---|
 | **[ToolLens](https://github.com/danivijay/toollens)** | An evaluation harness for **Model Context Protocol** servers. It generates labelled tasks, runs local and cloud LLMs against them, and shows which tools agents confuse. Includes confusion matrices, schema validation and CI gating. *Python · MCP · LLM evals* |
 | **[mevn-cli](https://github.com/madlabsinc/mevn-cli)** | A contributor to this 800+ ⭐ CLI that scaffolds MongoDB, Express, Vue and Node apps at light speed. *Node.js · Open source* |
-| **[Napkin Chain](https://napkinchain.leadbybuild.ing)** | A system-design estimation trainer. You size real systems one connected estimate at a time, and it scores you on order of magnitude, not arithmetic. [Try it live](https://napkinchain.leadbybuild.ing). *Python · FastAPI · React · AWS Lambda* |
+| **[Napkin Chain](https://github.com/danivijay/napkin-chain)** | A system-design estimation trainer. You size real systems one connected estimate at a time, and it scores you on order of magnitude, not arithmetic. [Try it live ↗](https://napkinchain.leadbybuild.ing) *Python · FastAPI · React · AWS Lambda* |
 | **[guess-quote](https://github.com/danivijay/guess-quote)** | A collaborative PWA built with the Google Udacity Mobile Web Specialist scholars. *JavaScript · PWA* |
+| **[Napkin Chain](https://napkinchain.leadbybuild.ing)** | A system-design estimation trainer. You size real systems one connected estimate at a time, and it scores you on order of magnitude, not arithmetic. [Try it live](https://napkinchain.leadbybuild.ing). *Python · FastAPI · React · AWS Lambda* |
 
 ### Tech I work with
 
