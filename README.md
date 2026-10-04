@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://leadbybuild.ing"><img alt="Website" src="https://img.shields.io/badge/Website-leadbybuild.ing-FFB547?style=flat&logo=googlechrome&logoColor=black"></a>
   <a href="https://linkedin.com/in/danivijay"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-danivijay-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://medium.com/@danivijay"><img alt="Medium" src="https://img.shields.io/badge/Medium-@danivijay-000000?style=flat&logo=medium&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/4230220"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-Top_5%25_React-F58025?style=flat&logo=stackoverflow&logoColor=white"></a>
@@ -59,5 +60,5 @@ I lead engineering teams that ship and scale enterprise software, and I still wr
 
 <p align="center">
   <i>Open to conversations about engineering leadership, platform architecture and AI engineering roles.</i><br/>
-  📫 <a href="mailto:danimvijay@gmail.com">danimvijay@gmail.com</a>
+  🌐 <a href="https://leadbybuild.ing">leadbybuild.ing</a> · 📫 <a href="mailto:danimvijay@gmail.com">danimvijay@gmail.com</a>
 </p>
