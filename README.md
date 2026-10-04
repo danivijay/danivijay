@@ -11,7 +11,7 @@
   <a href="https://medium.com/@danivijay"><img alt="Medium" src="https://img.shields.io/badge/Medium-@danivijay-000000?style=flat&logo=medium&logoColor=white"></a>
   <a href="https://stackoverflow.com/users/4230220"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-Top_5%25_React-F58025?style=flat&logo=stackoverflow&logoColor=white"></a>
   <a href="https://twitter.com/utmostdev"><img alt="X" src="https://img.shields.io/badge/X-@utmostdev-000000?style=flat&logo=x&logoColor=white"></a>
-  <a href="mailto:dani@leadbybuild.ing"><img alt="Email" src="https://img.shields.io/badge/Email-dani@leadbybuild.ing-EA4335?style=flat&logo=protonmail&logoColor=white"></a>
+  <a href="mailto:dani@leadbybuild.ing"><img alt="Email" src="https://img.shields.io/badge/Email-dani@leadbybuild.ing-EA4335?style=flat"></a>
 </p>
 
 ---
